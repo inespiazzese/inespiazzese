@@ -1,4 +1,4 @@
-### Hello people! 👋
+### Hello people!
 
 
 - 🌱 I’m currently working on multiple mini-apps, and learning as much technologies as possible ...
